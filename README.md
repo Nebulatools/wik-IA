@@ -34,3 +34,13 @@ Plantilla para consolidar información sobre herramientas de IA.
 - OpenAI Codex — coding agent para VS Code (extensión de Marketplace).
 - `vscode-openai` (integración general en el editor).
 
+
+
+## Listado Resumido de IA's
+
+OpenAI
+
+```
+(web) ChatGPT: https://chatgpt.com/
+(cli) Codex: npm install -g @openai/codex
+```
